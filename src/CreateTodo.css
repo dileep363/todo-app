@@ -1,0 +1,36 @@
+.inputform{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 6cm;
+}
+.displaydata{
+    display: grid;
+    place-items: center;
+}
+.eachtodo{
+    width: 400px;
+    margin-top: 0px;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
+    align-self: flex-start;
+}
+.inputfield{
+    width: 400px;
+    height: 40px;
+    font-size: 19px;
+    font-weight: 'bold';
+    border-radius: 15px;
+    font-family: 'Arial,calibri' ;
+}
+.data{
+    font-size: 19px;
+    font-weight: 'bold';
+    border-radius: 15px;
+    font-family: 'Arial,calibri' ;
+}
+.buttons{
+    margin: 0 5px;
+}
